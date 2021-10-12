@@ -15,3 +15,7 @@ Favorite Food: Spaghetti
 Name: Malik Robinson
 EG: 2021
 Favorite Food: Stake
+
+Name: Lawrence Ezeani
+EG:2023
+Favorite Food: Chicken w. Rice
